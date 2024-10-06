@@ -14,3 +14,21 @@ code {
 .nav-item{
   margin-left: 40px;
 }
+#supportHero{
+  background-color: rgb(53,126,209);
+  color: white;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+#supportHero a{
+  color: white;
+}
+#supportHero input{
+  padding: 10px 60px;
+  width: 100%;
+  font-size: 20px;
+  
+}
